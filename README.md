@@ -14,9 +14,10 @@
 
 ## 🚀 Sobre mim
 
-Sou **QA Engineer Júnior** apaixonada por qualidade de software e automação de testes. Com formação em Ciência e Tecnologia pela UFVJM e especialização em Quality Assurance, atuo com testes manuais e automatizados para garantir a melhor experiência do usuário.
+Sou **QA Engineer Júnior** apaixonada por qualidade de software, automação de testes e hardwares antigos! 
+Com formação em Ciência e Tecnologia pela UFVJM e especialização em Quality Assurance, atuo com testes manuais e automatizados para garantir a melhor experiência do usuário.
 
-- 🔍 Focada em **testes E2E, API e Mobile**
+- 🔍 Focada em **testes E2E e API **
 - 🤖 Experiência com **automação usando Cypress e JavaScript**
 - 📊 Trabalhando com **metodologias ágeis** (Scrum/Kanban)
 - 🌱 Atualmente aprofundando conhecimentos em **Full-Stack Development**
@@ -81,7 +82,7 @@ Suite completa de testes de API incluindo smoke tests, testes funcionais, negati
 ## 💼 Experiência
 
 **Freelancer | QA Engineer** _(Jan 2025 - Atualmente)_
-- Execução de testes manuais, funcionais e exploratórios em aplicações web e mobile
+- Auxilio na execução de testes manuais, funcionais e exploratórios em aplicações web
 - Gestão completa do ciclo de vida de bugs
 - Elaboração de planos de teste baseados em requisitos técnicos
 - Colaboração ativa em metodologias ágeis (Scrum/Kanban)
