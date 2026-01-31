@@ -121,7 +121,7 @@ Estou sempre aberta a novos desafios e oportunidades na área de Quality Assuran
 
 <div align="center">
   
-  **"Qualidade não é um acidente, é sempre o resultado de um esforço inteligente."**
+  **"Mesmo que nós esqueçamos os rostos dos nossos amigos, jamais esqueceremos os laços que foram cravados nas nossas almas."**
   
   ⭐️ From [beatrizbcserra](https://github.com/beatrizbcserra)
   
