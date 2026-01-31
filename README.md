@@ -101,7 +101,7 @@ Suite completa de testes de API incluindo smoke tests, testes funcionais, negati
 
 ## 🎓 Formação
 
-- 🎓 **Bacharelado em Ciência e Tecnologia** - UFVJM (2022-2025)
+- 🎓 **Bacharelado em Ciência e Tecnologia** - UFVJM (2022-2024)
 - 📜 **QA Engineer** - Mate Academy (2025)
 - 📜 **Cypress, do Zero à Nuvem** - Automação de Testes (2025)
 - 📚 **Full-Stack Web Development Bootcamp** _(Em andamento)_
