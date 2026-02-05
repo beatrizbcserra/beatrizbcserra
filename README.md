@@ -123,6 +123,6 @@ Estou sempre aberta a novos desafios e oportunidades na área de Quality Assuran
   
   **"Mesmo que nós esqueçamos os rostos dos nossos amigos, jamais esqueceremos os laços que foram cravados nas nossas almas."**
   
-  ⭐️ From [beatrizbcserra](https://github.com/beatrizbcserra)
+  ⭐️ Feito por [beatrizbcserra](https://github.com/beatrizbcserra)
   
 </div>
