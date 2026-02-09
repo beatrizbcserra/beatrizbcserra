@@ -69,6 +69,13 @@ Suite completa de testes de API incluindo smoke tests, testes funcionais, negati
 
 ---
 
+### 🔎 [Automação E2E + CI/CD Pipeline - QAPlayground](https://github.com/beatrizbcserra/QA-Playground)
+Projeto de testes manuais e automação E2E utilizando Cypress, simulando o fluxo de cadastro de usuários e login em uma aplicação web utilizando IA Generativa (ChatGPT) para geração de dados de teste no formato JSON.
+
+**Tecnologias** Cypress | JavaScript | GitHub Actions | Testes Funcinais | Bug Report | Cenários de teste |
+
+---
+
 ## 📊 GitHub Activity
 
 <div align="center">
